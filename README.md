@@ -1,6 +1,7 @@
 ### Hi there 👋
 - I am looking for job opportunity(Backend Engineer/ Data Science)
 - Contact adityaknegi@gmail.com :email:
+- <a href="https://github.com/adityaknegi/adityaknegi/blob/master/Aditya_kumar.pdf">Resume</a>
 - Have a nice day :smiley:
 
 
