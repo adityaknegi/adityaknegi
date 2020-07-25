@@ -1,4 +1,10 @@
 ### Hi there 👋
+- I am looking for job opportunity(Backend Engineer/ Data Science)
+- Contact adityaknegi@gmail.com :email:
+- Have a nice day :smiley:
+
+
+
 
 <!--
 **adityaknegi/adityaknegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
