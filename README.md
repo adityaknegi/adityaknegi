@@ -14,7 +14,6 @@ Welcome to my GitHub profile. Feel free to explore and connect with me!
 ## About Me
 - 🔭 Currently working on improving my coding skills.
 - 🌱 Learning new technologies and frameworks.
-- 👯 Open to collaborating on open source projects.
 - 💬 Ask me about web development and programming.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/negi1/)
 - 😄 Pronouns: He/Him
