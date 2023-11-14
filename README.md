@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 Welcome to my GitHub profile. Feel free to explore and connect with me!
-
 ## Contact
 - 📧 Email: adityaknegi@gmail.com
 - 📄 [Resume](https://github.com/adityaknegi/adityaknegi/blob/master/Aditya_9805846331.pdf)
@@ -20,7 +19,7 @@ Welcome to my GitHub profile. Feel free to explore and connect with me!
 - ⚡ Fun fact: I love to travel and explore new places.
 
 ## GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaknegi&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaknegi&show_icons=true&bg_color=00000000)
 
 ## Language Stats
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaknegi&layout=compact&&show_icons=true&theme=transparent)
