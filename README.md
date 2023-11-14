@@ -20,10 +20,10 @@ Welcome to my GitHub profile. Feel free to explore and connect with me!
 - ⚡ Fun fact: I love to travel and explore new places.
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaknegi&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_title=true&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaknegi&show_icons=true&theme=transparent)
 
 ## Language Stats
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaknegi&layout=compact&hide_title=true&hide_border=true)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaknegi&layout=compact&&show_icons=true&theme=transparent)
 
 ## Let's Connect!
 - 📱 [LinkedIn](https://www.linkedin.com/in/negi1/)
