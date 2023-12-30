@@ -15,7 +15,6 @@ Welcome to my GitHub profile. Feel free to explore and connect with me!
 - 🌱 Learning new technologies and frameworks.
 - 💬 Ask me about web development and programming.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/negi1/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel and explore new places.
 
 ## GitHub Stats
