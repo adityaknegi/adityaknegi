@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Welcome to my GitHub profile! Feel free to explore my projects and connect with me.
+  Welcome to my GitHub profile! Feel free to explore my projects and connect with me.
 
 ## 📬 Contact
 
